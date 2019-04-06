@@ -1,10 +1,8 @@
 ---
 title: "About Me"
-description: ""
+description: "My name is Lewis Coleman, I am a Junior Software Developer working in  Munich, Germany for HolidayCheck. "
 featured_image: 'images/ProfileImage.jpg'
 ---
-
-My name is Lewis Coleman, I am a Junior Software Developer working in  Munich, Germany. 
 
 I'm originally from Britain where I went to university to study a Masters degree in **Chemical Engineering** and worked for a year in the Industrial gases industry as a Chemical Process Engineer.
 
