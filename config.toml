@@ -1,5 +1,5 @@
 title = "Lewis Coleman"
-baseURL = "https://lcoleman.me"
+baseURL = "http://www.lcoleman.me/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke-master"
 
@@ -28,6 +28,6 @@ enableRobotsTXT = true
   mastodon = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/MunichCity.jpg"
+  featured_image = "static/images/MunichCity.jpg"
   recent_posts_number = 3
   show_reading_time = true
