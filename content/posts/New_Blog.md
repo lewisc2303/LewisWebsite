@@ -1,10 +1,10 @@
-+++
-title =  "New Blog"
-date = 2019-04-08T21:54:13+02:00
-tags = [Scala, Functional, Learning]
-featured_image = "images/scala.png"
-description = "Learning never ends, so neither should blogging"
-+++
+---
+title :  "New Blog"
+date : 2019-04-08T21:54:13+02:00
+tags : [Scala, Functional, Learning]
+featured_image : "images/scala.png"
+description : "Learning never ends, so neither should blogging"
+---
 
 # New team and new language
 
