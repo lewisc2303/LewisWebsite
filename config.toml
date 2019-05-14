@@ -31,4 +31,3 @@ enableRobotsTXT = true
   featured_image = "static/images/MunichCity.jpg"
   recent_posts_number = 3
   show_reading_time = true
-  section_name = "posts"
