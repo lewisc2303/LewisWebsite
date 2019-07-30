@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mob on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/mob/</link>
+    <description>Recent content in Mob on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/mob/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 62 - The Business Stage</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_62/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_62/</guid>
+      <description>The Business stage Today kinda marked the beginning of the &amp;ldquo;Business&amp;rdquo; stage of the Apprenticeship Programme. This is where I learn ab out HolidayCheck as a business and explore and discover what all the different departments and product teams are doing, but also to get to know everyone better. So every week I shall move my desk to a new team and work with them for a week, I will mainly still be doing my own personal learning but participate in team activities where possible.</description>
+    </item>
+    
+  </channel>
+</rss>

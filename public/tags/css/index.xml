@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/css/</link>
+    <description>Recent content in Css on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 110 - CSS Flexbox </title>
+      <link>http://www.lcoleman.me/apprenticeship/day_110/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_110/</guid>
+      <description>Frontend Development As of this week, I&amp;rsquo;ve started to teach myself some key skills for frontend development, this is a world that I&amp;rsquo;ve had little experience with. But it&amp;rsquo;s crucial, not just to for developing front end, but to understand the front end to get a better picture of how a full stack project works.
+Last weekend I did some practice through YouTube tutorials on the basics of HTML5, which is straight-forward and tbh not worthy of a blog post.</description>
+    </item>
+    
+  </channel>
+</rss>

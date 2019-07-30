@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apprenticeship on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/apprenticeship/</link>
+    <description>Recent content in Apprenticeship on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/apprenticeship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 144 - The Masterpiece begins</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_144/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_144/</guid>
+      <description>My Masterpiece Introduction Last week I started my masterpiece :o! I was probably over discreet in my last post on what it is, so I shall describe it further here.
+So during my first month at HolidayCheck I participated in an off-site hackathon with my PPM team where we created a web game, but back then I knew nothing, so my participation was minimal.
+During my business phase rotation I spent a week with the digital marketing team and got to know the people that run social media marketing.</description>
+    </item>
+    
+    <item>
+      <title>Day 134 - CodeFreeze 2019</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_134/</link>
+      <pubDate>Mon, 14 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_134/</guid>
+      <description>CodeFreeze Last week I was at a SoCraTes unconference called CodeFreeze, and it was awesome! I feel like I&amp;rsquo;ve just come out of a bubble. Like the kids that go into Narnia, stay there for like 20 years, become Kings and Queens of Narnia, then suddenly have to go back through the cupboard. Well, I&amp;rsquo;ve just stepped out of the cupboard.
+CodeFreeze is a SoCraTes unconference situated in the remote area of Killopaa in Lapland, Finland (Not too dissimilar to Narnia).</description>
+    </item>
+    
+    <item>
+      <title>Day 110 - CSS Flexbox </title>
+      <link>http://www.lcoleman.me/apprenticeship/day_110/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_110/</guid>
+      <description>Frontend Development As of this week, I&amp;rsquo;ve started to teach myself some key skills for frontend development, this is a world that I&amp;rsquo;ve had little experience with. But it&amp;rsquo;s crucial, not just to for developing front end, but to understand the front end to get a better picture of how a full stack project works.
+Last weekend I did some practice through YouTube tutorials on the basics of HTML5, which is straight-forward and tbh not worthy of a blog post.</description>
+    </item>
+    
+    <item>
+      <title>Day 109 - Master Project idea confirmed</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_109/</link>
+      <pubDate>Thu, 20 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_109/</guid>
+      <description>Masterpiece Over the last couple of days, I have been planning and coming up with ideas for my masterpiece project. The masterpiece project is the pièce de résistance of the Apprenticeship Programme, it is a project that adds value to the company and allows you to learn new skills and showcase what you&amp;rsquo;ve learnt over the last months.
+Success I have come up with an idea and spoke to the correct people about it, but don&amp;rsquo;t want to give too much away at this point for 2 reasons; 1) Things could change, 2) Shouldn&amp;rsquo;t post about company confidential stuff on here.</description>
+    </item>
+    
+    <item>
+      <title>Day 107 - What do you call a typeclass from the 80&#39;s?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_107/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_107/</guid>
+      <description>A (FUNK)TOR! But for real&amp;hellip; Functors  &amp;ldquo;We abstract out a common pattern, make certain it follows some laws, give it an awesome name, and wonder how we ever lived without it&amp;rdquo;
+ I think this is an accurate reasoning for typeclasses. And was pre-highlighted in the book, so the person who sent it to me must of also thought so.
+Functors is an example of the above, an abstraction of a common pattern.</description>
+    </item>
+    
+    <item>
+      <title>Day 102 - Katas but not yet Functors</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_102/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_102/</guid>
+      <description>I have been ill the last few days, so have not written any posts but I did watch a few YouTube videos around on Haskell and JavaScript.
+Kata Haskell Kata One particular video made me realise that I have not been using the Haskell type signatures to help in describing the functions well enough, and the video makes a good case stating that type signature declarations aid in code documentation, however I have tended to be lazy and not use type aliases.</description>
+    </item>
+    
+    <item>
+      <title>Day 98 - ToDo List ft. Functor/Applicative</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_98/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_98/</guid>
+      <description>Functors and Applicatives On Sunday I watched a few videos and read a few documents about the functor and applicative typeclass and the methods they contain. Which is not my usual approach, I have been reading chapter by chapter, the Haskell book and doing exercises as I go along, but a few weeks back I realised that it&amp;rsquo;s not making me apply my Haskell knowledge to real world scenarios. And so I started a Haskell project which was a &amp;ldquo;To-Do List&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Day 95 - Data Ingenieurwesen &amp;&amp; Meine Haskell Umwelt</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_95/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_95/</guid>
+      <description>Data Engineering So this week I joined the Data Engineering team. Their main role is to maintain and refine data for both internal and external purposes. There seems to be quite a bit of complex technologies and frameworks which are intrinsic to the data team such as the data import scheduler and Spark.
+I had heard of Spark before and but only that it was used in big data distributed data computation, but never seen it, or looked into how it works.</description>
+    </item>
+    
+    <item>
+      <title>Day 91 - Why Monoid?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_92/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_92/</guid>
+      <description>Why Monoid? In my last post I was quite technical on how to Monoid and what the text book definition of a Monoid is. But what is the point of it? You could just write a function that does the same.
+But Monoids are just abstractions of a common pattern which appears often, Monoids allow you to abstract this common pattern into a set implementation so it can be easily used to construct datatypes together.</description>
+    </item>
+    
+    <item>
+      <title>Day 90 - Monoids</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_91/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_91/</guid>
+      <description>Monoids This blog post has been in the making for a while as I didn&amp;rsquo;t fully understand Monoids to make a Blogpost on them.
+What is a Monoid? A Monoid is a datatype that takes 2 arguments and is governed by 2 laws:
+ Applicability : This law states that the order of argument execution does not effect the result.  2+(6+10) == (2+6)+10 == 16 OR ([6,3,7] ++ [4]) ++ [0,8] == [6,3,7] ++ ([4] ++ [0,8]) == [6,3,7,4,0,8]  It doesn&amp;rsquo;t matter where the parenthesis are, the results are the same.</description>
+    </item>
+    
+    <item>
+      <title>Day 84 - Compile Driven Development</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_84/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_84/</guid>
+      <description>Haskell Blog Today whilst researching Monoids I stumbled across a very informative blog, the best Haskell blog I&amp;rsquo;ve come across yet. The blog is well categorised by level of Haskell competency and explores not only concepts but also the best approaches to learning and using Haskell. It has some cool advanced sections like; AI in Haskell, Haskell Web and Haskell parsing. It also goes into Elm and PureScript AND it&amp;rsquo;s still active!</description>
+    </item>
+    
+    <item>
+      <title>Day 81 - RSS :(, Haskell :)</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_81/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_81/</guid>
+      <description>RSS failed :( So yesterday I made an RSS feed for my blog, but for some reason it does not work. I think the theme I am using is not explicitly made for RSS as some of the other apprentices struggled with this theme too. Therefore I have started setting up my new theme and will hopefully finish it on Monday.
+Looking into a Haskell Service Today a fellow HolidayCheck employee showed me a HolidayCheck service which was created in Haskell which was cool to see.</description>
+    </item>
+    
+    <item>
+      <title>Day 80 - Etwas Deutsch</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_80/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_80/</guid>
+      <description>Auf Deutsch Bitte! Heute werde ich mein Blogpost auf Deutsch tun, weil ich zweimal pro Woche am Dienstag und Donnerstag Deutsche Unterricht haben. Aber, dieses woche bin ich nicht gehen, deshalb ein besser Grund zu ein Deutsche post machen.
+Wenn ich Deutsch schrieben, erkenne ich dass, ich besser Deustch schrieben kann weil, ich uber Deutche Grammartisch denken kann.
+RSS einrichten Okay, das war zu schwerig für die ganze Blogpost schreiben, also werde ich die nächste teil auf Englisch tun.</description>
+    </item>
+    
+    <item>
+      <title>Day 79 - Bottighofen, Balance and JS</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_79/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_79/</guid>
+      <description>Bottighofen, Balance and Javascripty stuff Since Monday I have been in the Swiss office with a team called All Inclusive.
+Working on production code In this team I got to take a user-story from Jira, this initial story ended up being far more complicated then predicted, so it needed a lot of assistance.
+However yesterday I was given a different minor fix, a classic Javascript undefined error. And I wrote tests for the fix and fixed it!</description>
+    </item>
+    
+    <item>
+      <title>Day 77 - MuniHac 2018</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_77/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_77/</guid>
+      <description>MuniHac 2018 Once again I&amp;rsquo;ve been lacking on my blog posts, but since I am on a 3 hour coach journey, it is a great opportunity to write about my MuniHac experience.
+MuniHac is a 3 day Haskell Hackathon: One room, 80 Haskellers, unlimited food and coffee and a passion for immutable datatypes.
+Day 1 With this being my first hackathon, I felt a bit nervous as I didn&amp;rsquo;t know anyone there and was not sure on the levels of Haskell competency.</description>
+    </item>
+    
+    <item>
+      <title>Day 73 - Testing</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_72/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_72/</guid>
+      <description>Testing in Haskell As in any language, testing is crucial for driving and creating good, maintainable code. And for me, this would be the only criticism of the book, the testing chapter, for being both too vague with the specific implementation with regards to test layout and for introducing it so far into the book.
+Throughout the book, functions were tested by loading the file into the GHCi and interpreting the compiler error, which is essential to a strictly typed language.</description>
+    </item>
+    
+    <item>
+      <title>Day 71 - Haskell testing blog post pending</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_71/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_71/</guid>
+      <description>Haskell Testing Blog Post pending So today I was going to write a blog post about testing in Haskell but have not been successful and come across lots of issues.
+Hopefully tomorrow I shall sort them out and be able to write a blog post on how I overcame them.
+The a general issue with Haskell is that there isn&amp;rsquo;t the wealth of forum posts on how to overcome issues.</description>
+    </item>
+    
+    <item>
+      <title>Day 65 - My Haskell Genesis</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_65/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_65/</guid>
+      <description>Today I made my first Haskell Project ! It was a text-based hangman game, and it was heavily guided by the book, even-so it brought everything together and it was quite cool actually producing something tangible.
+So the basics for setting up any project is by the following commands:
+stack new my-project cd my-project stack setup stack build stack exec my-project-exe   stack new builds a project directory for a new Haskell Project stack setup will download or update the necessary GHC compiler stack build will build the minimal project in order to execute teh project.</description>
+    </item>
+    
+    <item>
+      <title>Day 63 - Algebraic Datatypes</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_63/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_63/</guid>
+      <description>Algebraic Datatypes The strict type system of Haskell is one its key features, it can aid in crafting HOFs, catching errors at compile time and allow for more descriptive code.
+Algebraic Dataypes can be categorised into 2 main types:
+Sum Type A data structure that contains different fixed singular data constructors. The most familiar being Boolean.
+data Boolean = True | False  When no arguments are required for the type constructor, it is referred to as a nullary constructor</description>
+    </item>
+    
+    <item>
+      <title>Day 62 - The Business Stage</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_62/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_62/</guid>
+      <description>The Business stage Today kinda marked the beginning of the &amp;ldquo;Business&amp;rdquo; stage of the Apprenticeship Programme. This is where I learn ab out HolidayCheck as a business and explore and discover what all the different departments and product teams are doing, but also to get to know everyone better. So every week I shall move my desk to a new team and work with them for a week, I will mainly still be doing my own personal learning but participate in team activities where possible.</description>
+    </item>
+    
+    <item>
+      <title>Day 59 - Folds</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_59/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_59/</guid>
+      <description>Folds Folding is a useful tool for deconstructing data, by reducing about the spine of a list (due to foldable being a type-class, folds can also be performed on other datatypes, but this is not in the scope of the fold chapter I just read).
+Folds essentially replaces the cons constructor in a list with a function which takes 2 arguments and applies that function through the list until it reaches the base case.</description>
+    </item>
+    
+    <item>
+      <title>Day 57 - Strict and Lazy evaluation</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_57/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_57/</guid>
+      <description>Strict, Non-Strict and Lazy Evaluation Haskell can be described as a non-strict language with mostly lazy evaluation. Aber, Was bedeutet das? (Gestern hatte ich meine erste Deutsche Klasse, also werde ich zufällig Deutsch schrieben, damit ich üben kann)
+ Non-Strict Evaluation: Non-strict evaluation means that you evaluate an expression from the outside in (as you do in lambda calculus).
+ Strict Evaluation: Is obviously the opposite, evaluation starts from the inside out.</description>
+    </item>
+    
+    <item>
+      <title>Day 56 - Lists</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_56/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_56/</guid>
+      <description>[Lists] Okay, I did the list chapter from the Haskell book before Innodays, however I never did a blog post on it. And in this chapter there was some crucial information on the idiomatic ways Haskell deals with lists, so I am reviewing what I learnt and writing a post about it&amp;hellip;
+The cons (:) operator One of these idiomatic Haskellism is the cons operator :. Haskell has 2 ways of defining the List datatype:</description>
+    </item>
+    
+    <item>
+      <title>Day 54 - Innodays</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_54/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_54/</guid>
+      <description>Innodays 2018! It has been a while since I last blogged as I was at the HolidayCheck Innodays. Which was so fun, I learnt so much technical stuff and became a lot closer with my work colleagues, t&amp;rsquo;was was great.
+Innodays, was a retreat where a select group of people from all of the HolidayCheck offices met in the Bavarian Alps to work together to produce and most importantly ship projects which can benefit the Urlauber.</description>
+    </item>
+    
+    <item>
+      <title>Day 46 - Referential Transparency</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_46/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_46/</guid>
+      <description>Referential Transparency Whilst going through some recursion exercises in Haskell, I thought to myself, how is the recursive parameter in a recursive function not mutating? Surely this variable is changing with with every recursive call and therefore breaking referential transparency?
+So, I decided to write a blog post about it&amp;hellip;
+First of all, what is Referential Transparency?
+ Referential transparency is an expression that can be replaced with its value without changing the program’s behaviour.</description>
+    </item>
+    
+    <item>
+      <title>Day 45 - Exercism</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_45/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_45/</guid>
+      <description>A break from the book Today I&amp;rsquo;ve been completing some more autonomous and less guided exercises in Exercism. I find these exercises more challenging as it&amp;rsquo;s not focused around the last chapter I read, and forces me to apply everything that I&amp;rsquo;ve learnt and work out the best way.
+An example is the Acronym challenge, which requires you to create a function that creates an acronym out of any String argument.</description>
+    </item>
+    
+    <item>
+      <title>Day 44</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_44/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_44/</guid>
+      <description>Recursion Is the use of repeated function application, so the self-calling nature of a function. Recursive functions requires a a termination step to avoid stack overflow. The usual layout of this is to make a recursive bottom and the termination steps higher up the code order.
+Today I saw myself naturally implementing a TDD approach (very loosely because I&amp;rsquo;m not even implementing test suites into Haskell rn) to creating my recursion model.</description>
+    </item>
+    
+    <item>
+      <title>Day 43</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_43/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_43/</guid>
+      <description>More Functional Patterns Guards A way of evaluating many truth statements separately. This is an alternative way of using case statements, although this method uses otherwise which is ideal for handling bottoms.
+Bottoms - a non-value used to denote that the program cannot return a value or result.
+avgGrade :: (Fractional a, Ord a) =&amp;gt; a -&amp;gt; Char avgGrade x | y&amp;gt;=0.9 =&#39;A&#39; | y&amp;gt;=0.8 =&#39;B&#39; | y&amp;gt;=0.7 =&#39;C&#39; | y &amp;gt;= 0.</description>
+    </item>
+    
+    <item>
+      <title>Day 40</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_40/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_40/</guid>
+      <description>Back to Haskell :) =&amp;gt; Functional Patterns Anonymous functions Anonymous functions are used in Haskell when you don&amp;rsquo;t wish to create a function without naming it. It is used for HOFs and it can be more concise. It is basically writing functions the same way as lambda calculus:
+f n = n + 1 f2 x y z = (5x + 3y) - z  goes to
+f = \n -&amp;gt; n + 1 f2 = \x -&amp;gt; \y -&amp;gt; \z -&amp;gt; ((5x + 3y) - z)  Note: The \ represents lambda and brackets are used to indicate that the argument is applied to the whole function.</description>
+    </item>
+    
+    <item>
+      <title>Day 39</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_39/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_39/</guid>
+      <description>Learning Bash Today I&amp;rsquo;ve decided to plunge a little deeper into the bash world.
+mkdir hammerTime chmod 500 hammerTime cd hammerTime touch this  Interactive and non-interactive modes  Interactive: Shell commands such as; ls, cd, mkdir, rm.
+ Non-interactive: Where the shell reads commands from a .bash file or a pipe and executes them.
+  Useful Commands:  touch - to create a script file chmod +x &amp;quot;&amp;lt;file name&amp;gt;&amp;quot; - to create an executable file man - to query a bash command which - to search for a directory cat or less - to read a .</description>
+    </item>
+    
+    <item>
+      <title>Day 38</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_38/</link>
+      <pubDate>Wed, 10 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_38/</guid>
+      <description>Typeclasses This chapter (eventually) made me understand the Haskell type system a lot more.
+Main Typeclasses:  Eq = For determining equality of values. Applies to most (maybe all) prelude datatypes. Methods: == or /= Ord = For comparing values. A sub class of Eq as equality determination is needed to compare. Methods: &amp;gt; &amp;lt; compare min max Num = For basic arithmetic. Superclass for most numeric types. Methods: (+) (-) Enum = types that have predecessors and successor elements.</description>
+    </item>
+    
+    <item>
+      <title>Day 37</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_37/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_37/</guid>
+      <description>Blog and Retrospective Refactoring Today I redesigned my website (as you may well have noticed).
+Adding my retrospectives I added my retrospective to my site in order to archive them for retrospective reference incase I want to have a retrospective of my retrospectives. This formal write-up of my retrospective makes me more familiar with my action items and allows for thorough reflection.
+Making it pretty I also made it pretty by making it blue with a better font.</description>
+    </item>
+    
+    <item>
+      <title>Day 36</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_36/</link>
+      <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_36/</guid>
+      <description>(More) Types Polymorphism Degrees of polymorphism are:
+ Parametric Polymorphism - full polymorphism of any type: a -&amp;gt; b -&amp;gt; a Constrained Polymorphism - polymorphism constrained to a typeclass: (Num a, Ord a) =&amp;gt; a Concrete type - not polymorphic: [Char] -&amp;gt; Char  It is beneficial to keep a function as polymorphic as possible, as it saves you from creating different functions for different types.
+But as soon as you apply a function belonging to a typeclass you constrain the argument to the typeclass making it a constrained polymorphic function.</description>
+    </item>
+    
+    <item>
+      <title>Day 33</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_33/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_33/</guid>
+      <description>Holiday Holiday!
+But here is yesterday&amp;rsquo;s post about Datatypes</description>
+    </item>
+    
+    <item>
+      <title>Day 32</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_32/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_32/</guid>
+      <description>Data Types With Haskell being a static typed language and the book I am reading being suitable for beginners, it gives an insight into what types are and why they are necessary.
+So, why are types important? Haskell (like Scala) is a static typed language which means any type errors encountered are flagged up at compile time - This makes debugging easier. If the language did not have this, instead it would run into the error at runtime, which is where the code breaks when that function is executed.</description>
+    </item>
+    
+    <item>
+      <title>Day 31</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_31/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_31/</guid>
+      <description>Day 31 Today was Feiertag (celebration day) - a national bank holiday in Germany which signifies the reunification of east and west Germany in 1990.
+Feiertag</description>
+    </item>
+    
+    <item>
+      <title>Day 30</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_30/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_30/</guid>
+      <description>Day 30 Functional Programming Pt.2 Today I completed chapters 2 and 3 of the first principles in Haskell book and even though it&amp;rsquo;s slow (on page 118 of 1200) I&amp;rsquo;m really being encouraged to fully understand the language. The author makes you debug code and implores you to investigate the possible quirks in the language; other books I&amp;rsquo;ve read just tell you the syntax and leaves little to be discerned by yourself.</description>
+    </item>
+    
+    <item>
+      <title>Day 29</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_29/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_29/</guid>
+      <description>Day 29 Functional Programming in Haskell To start I would just like to praise how good the Haskell book is for beginners:
+ &amp;ldquo;Haskell Programming from first principles&amp;rdquo; - Christopher Allen &amp;amp; Julie Moronuki.&amp;rdquo;
+ It builds up every concept up from the (actual) core fundamentals and builds-up to the underlying F.P philosophy. Starting from Lambda calculus in the first chapter, at first it was a bit scary and and just seeing a lambda symbol is intimidating but it&amp;rsquo;s actually a very simple concept.</description>
+    </item>
+    
+    <item>
+      <title>Day 26</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_26/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_26/</guid>
+      <description>Day 26 Language change Today I decided to switch languages&amp;hellip;
+Why Scala wasn&amp;rsquo;t right (for now)  Being built on top of the Java virtual machine, to fully understand Scala it helps to have understand of Java. Therefore whenever I looked up things about Scala, it was always referring and comparing methods with Java. Few resources explained Scala concepts from a beginner perspective. Multi-paradigm language. Scala has the capability to operate in Object orientated and Functional Programming.</description>
+    </item>
+    
+    <item>
+      <title>Day 25</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_25/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_25/</guid>
+      <description> Day 25 Error message 404 - Blog post not found </description>
+    </item>
+    
+    <item>
+      <title>Day 24</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_24/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_24/</guid>
+      <description> Day 24  val headacheMap = Map(&amp;quot;FunctionalProgramming&amp;quot; -&amp;gt; 5 , &amp;quot;Scala&amp;quot; -&amp;gt; 2, &amp;quot;DealingWithKVR&amp;quot; -&amp;gt; 5) val headacheScore = headacheMap.foldLeft(0)(_+_._2) def headacheStatus (headacheScore: Int): String = { if (headacheScore &amp;gt; 10) &amp;quot;I&#39;ve got such a headache&amp;quot; else if (headacheScore &amp;gt; 5) &amp;quot;Managable&amp;quot; else &amp;quot;Chilling&amp;quot; } headacheStatus(headacheScore)  </description>
+    </item>
+    
+    <item>
+      <title>Day 23</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_23/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_23/</guid>
+      <description>Day 24 Archery For the second day of the off-site we played archery high up in the Austrian mountains.
+We went through the forest shooting cork animals from distances of varying difficulty.
+I shot a little cork/plastic fawn, which was disturbing as it was like shooting Bambi ;&amp;lsquo;(.</description>
+    </item>
+    
+    <item>
+      <title>Day 22</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_22/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_22/</guid>
+      <description>Day 22 Offsite Practice (Hackathon) Today I went to my first offsite practice. This is where you code something that can be used for the company within a day as a team.
+We decided to code an Image-guessing game.
+The day was set-up in an Agile manner which began with the creation of the user stories:
+User stories are an Agile tool which allows you to envisage the project from the user perspective and create the project goals and sub tasks always with the user in mind.</description>
+    </item>
+    
+    <item>
+      <title>Day 19</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_19/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_19/</guid>
+      <description>Day 19 Presentation day! It went quite well actually. There were ~ 8 people in the room and it was also streamed to some people in Bottighofen.
+I went as red as a tomato, but didn&amp;rsquo;t let it distract me from my presentation. I got every point across and was prepared for the questions after. And quite good feedback.
+My personal critiques would be to be more composed, don&amp;rsquo;t rush and let it flow more naturally.</description>
+    </item>
+    
+    <item>
+      <title>Day 18</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_18/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_18/</guid>
+      <description>Day 18 Public Speaking One of the qualities of a Software crafter is communication and with that, the ability to speak publicly and present ideas and information
+So today I&amp;rsquo;ve been preparing some powerpoint slides for my Lightning talk (Short talk &amp;lt;15 mins about any topic), this talk will be presented in one of the meeting rooms to anyone who wishes to turn up (It&amp;rsquo;s also being video-linked to the Bottighofen office) * gulp * .</description>
+    </item>
+    
+    <item>
+      <title>Day 17</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_17/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_17/</guid>
+      <description>Day 17 Functional Programming I have been reading and doing exercises from:
+ &amp;ldquo;Functional Programming in Scala&amp;rdquo; - Paul Chiusano
+ Today I wrote and tested 2 programmes in FP without the help of the internet or hints.
+One tail recursion function that outputs a fibonacci number when inputted the sequence number as the argument. And the other a polymorphic higher order function (HOF) which recreated the isSorted function.</description>
+    </item>
+    
+    <item>
+      <title>Day 16</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_16/</link>
+      <pubDate>Tue, 18 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_16/</guid>
+      <description>Day 16 Challenge accepted I have decided on a non-work related challenge today. I am going to run in the Munich half marathon on the 14th October.
+21 Km of Jogging! Non-stop
+This is a big challenge for me as I usually only go for short 20-30 minute jogs (3-5 Km). However i pushed myself yesterday and did 10.2 Km in 1 hour 8 minutes.
+ That day, for no particular reason, I decided to go for a little run.</description>
+    </item>
+    
+    <item>
+      <title>Day 15</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_15/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_15/</guid>
+      <description>Day 15 From basics to brilliance A bit OTT naming, but I am committed to the &amp;ldquo;catchy&amp;rdquo; naming convention.
+One of the Senior Software Engineers has given me guidance to what is needed to grasp the Scala basics; which I have now completed: I can create immutable and mutable; variables, arrays, lists, maps and tuples. And create objects and loops to apply these methods. The basics.
+Now on to the brilliance part.</description>
+    </item>
+    
+    <item>
+      <title>Day 12</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_12/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_12/</guid>
+      <description>Day 12 Back on the Trello board Today I constructed my daily tasks in the morning using my Trello board; and it made me more productive. Through having those tasks to achieve in a permanently opened tab in my browser, I have something quick and easy to glance at and therefore know what needs to be done.
+I was also much better at staying on track with my current task by keeping it simple and coding the aspect of the language that I&amp;rsquo;m currently learning.</description>
+    </item>
+    
+    <item>
+      <title>Day 11</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_11/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_11/</guid>
+      <description>Day 11 Re-factoring myself I did not organise myself today and it was evident.
+Jumping from problem to problem, getting sidetracked by new methods, so much so that the first method I learned, was forgotten an hour later.
+In order to personalise learning to what is best for me, I need to consolidate what I learn by practicing again and again and writing about it in my &amp;ldquo;Scala Arbeitsbuch&amp;rdquo;; writing it down and practicing allows your brain to interpret the new information and through applying it you reach a higher level of understanding.</description>
+    </item>
+    
+    <item>
+      <title>Day 10</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_10/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_10/</guid>
+      <description>Day 10 IT WORKS (kinda) Today was quite successful. I wrote code in Scala with tests and it worked! I can do conditionals and basic for loops and nearly completed all the exercises on chapter 2 of:
+ &amp;ldquo;Scala for the impatient&amp;rdquo; - Cay S. Horstmann
+ My issue with Scala is that it is very strongly typed. Most my errors lie in types, and my knowledge of types is limited.</description>
+    </item>
+    
+    <item>
+      <title>Day 9</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_9/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_9/</guid>
+      <description>Day 9 Testing and tooling My aim today was to consolidate testing and tooling with learning Scala. And to be honest, I have not got far!
+Git commands from terminal I spent the morning understanding git in more detail and trying to create, commit and push my Scala projects to the HolidayCheck Github using the terminal. I want to come away from the use of Github apps as I will be switching between my personal and HolidayCheck accounts frequently and the Github desktop does not allow for easy switching.</description>
+    </item>
+    
+    <item>
+      <title>Day 8</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_8/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_8/</guid>
+      <description>Day 8 Sprint I have decided start implementing agile working practices and organsise my learning into Sprints which start and finish on the Monday of each week.
+My sprint for this week is to learn the basic functionalities of Scala in order to be able to commence a small Scala project next Monday. I shall also try to incorporate testing and tooling techniques into this Sprint by downloading and incorporating unit testing frameworks and host my Scala practise on the HolidayCheck Github.</description>
+    </item>
+    
+    <item>
+      <title>Day 5</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_5/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_5/</guid>
+      <description>Day 5 Scala - Sink or Swim I’ve decided to choose Scala for the following reasons:
+ Used in Microservices and the Data Team at HolidayCheck Data Science/Engineering interests me; we live in a world constantly churning data. Everything we do, the data is stored somewhere and having done lots of Statistics at university, the application of data interests me. It’s completely different to what I’ve done before; not similar to Python.</description>
+    </item>
+    
+    <item>
+      <title>Day 4</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_4/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_4/</guid>
+      <description>Day 4 Choosing a language  How do you know what you don’t know you don’t know?
+ It’s like asking someone from the 16th century if they know about electricity? Before that question was asked, the person didn’t know he didn’t know about electricity, but only knew he did not know when the question was asked.
+Essentially, how do I know the gaps in my knowledge when I don’t know what and where the gaps are, or even what a gap is.</description>
+    </item>
+    
+    <item>
+      <title>Day 3</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_3/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_3/</guid>
+      <description>Day 3 Markdown research As you can see from the blog post from day 2 (currently writing blog posts a day behind, changing that today by writing 3 and 4 b2b), I learnt new markdown techniques which allowed for snazzier blog posts with the use of hyperlinks and bold/italic writing. I also tried to create a table however I realised that this was only used in GitHub inspired markdown; which is not supported by Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_2/</link>
+      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_2/</guid>
+      <description>Day 2 The first (of many) ‘Daily stand-up’ Today was our first daily stand-up. We did not know what one was but Wolfram prompted us to look it up beforehand. It’s tied in with Agile and Agile Methodology, through reading the Agile chapter in the:
+ “Software Craftsman” - Robert C. Martin
+ I realised it was a type of Agile Process. The philosophy is based around quick feedback loops; any problems faced in the previous day can be addressed in these meetings and a solution discussed in order to not carry on a repeated issue into the next day; essentially real-life bug fixing.</description>
+    </item>
+    
+    <item>
+      <title>Day 1</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_1/</guid>
+      <description>Day 1 Initial feelings Ever since receiving the offer to join HolidayCheck as a Software Apprentice, my emotions have been eclectic. I was so excited when I received my offer, from what I could judge from the tech blogs and my interview with the team, I knew this apprenticeship was full of opportunity. The amount the company supports the scheme was evident and from reading the first month blog posts of the previous apprentices, they seemed to of grown in self-identified areas of weakness.</description>
+    </item>
+    
+  </channel>
+</rss>

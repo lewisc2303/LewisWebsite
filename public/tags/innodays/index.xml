@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innodays on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/innodays/</link>
+    <description>Recent content in Innodays on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/innodays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 54 - Innodays</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_54/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_54/</guid>
+      <description>Innodays 2018! It has been a while since I last blogged as I was at the HolidayCheck Innodays. Which was so fun, I learnt so much technical stuff and became a lot closer with my work colleagues, t&amp;rsquo;was was great.
+Innodays, was a retreat where a select group of people from all of the HolidayCheck offices met in the Bavarian Alps to work together to produce and most importantly ship projects which can benefit the Urlauber.</description>
+    </item>
+    
+  </channel>
+</rss>

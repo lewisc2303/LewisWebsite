@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/testing/</link>
+    <description>Recent content in Testing on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 98 - ToDo List ft. Functor/Applicative</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_98/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_98/</guid>
+      <description>Functors and Applicatives On Sunday I watched a few videos and read a few documents about the functor and applicative typeclass and the methods they contain. Which is not my usual approach, I have been reading chapter by chapter, the Haskell book and doing exercises as I go along, but a few weeks back I realised that it&amp;rsquo;s not making me apply my Haskell knowledge to real world scenarios. And so I started a Haskell project which was a &amp;ldquo;To-Do List&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Day 73 - Testing</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_72/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_72/</guid>
+      <description>Testing in Haskell As in any language, testing is crucial for driving and creating good, maintainable code. And for me, this would be the only criticism of the book, the testing chapter, for being both too vague with the specific implementation with regards to test layout and for introducing it so far into the book.
+Throughout the book, functions were tested by loading the file into the GHCi and interpreting the compiler error, which is essential to a strictly typed language.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functors on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/functors/</link>
+    <description>Recent content in Functors on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/functors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 107 - What do you call a typeclass from the 80&#39;s?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_107/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_107/</guid>
+      <description>A (FUNK)TOR! But for real&amp;hellip; Functors  &amp;ldquo;We abstract out a common pattern, make certain it follows some laws, give it an awesome name, and wonder how we ever lived without it&amp;rdquo;
+ I think this is an accurate reasoning for typeclasses. And was pre-highlighted in the book, so the person who sent it to me must of also thought so.
+Functors is an example of the above, an abstraction of a common pattern.</description>
+    </item>
+    
+  </channel>
+</rss>

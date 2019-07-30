@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/post/</link>
+    <description>Recent content in Blog Posts on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Partial Functions</title>
+      <link>http://www.lcoleman.me/post/paritial_functions/</link>
+      <pubDate>Mon, 13 May 2019 18:00:19 +0200</pubDate>
+      
+      <guid>http://www.lcoleman.me/post/paritial_functions/</guid>
+      <description>Partial Functions So I have started a Udemy course on called Rock the JVM! Advanced Scala and Functional Programming
+In this course it teaches advanced functional methodologies in Scala.
+The first topic is Partial Functions
+&amp;ldquo;A partial function is a function that does not provide an answer for every possible input value it can be given. It provides an answer only for a subset of possible data, and defines the data it can handle.</description>
+    </item>
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://www.lcoleman.me/post/new_blog/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/post/new_blog/</guid>
+      <description>New team and new language Since finishing the apprenticeship last month, I joined a product team. In this team I am getting involved with the Scala backend services, and so&amp;hellip; back to learning Scala.
+I started learning Scala when I first joined HolidayCheck but struggled with it as it combined Functional with Object-Orientated in a Java environment. None of which I had experience with. But after learning how to about Functional Programming in Haskell with Haskell from First Principles and learning the basics of Object-orientated in Javascript through reading Elequont JavaScript and doing my Masterpiece in JavaScript and React.</description>
+    </item>
+    
+    <item>
+      <title>New Blog</title>
+      <link>http://www.lcoleman.me/post/ideas/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/post/ideas/</guid>
+      <description>Functional Collections
+Thinking about collections in a functional way, what are there underlying functionalities.
+Set[A] extends (A =&amp;gt; Boolean) Seq[A] extends PartialFunction[Int,A] Map[A] extends PartialFunction[A,B+]
+Call by Value Vs Call by Name Vs Call by Need
+Lazy evaluation of streams.
+Currying in Scala
+ETA expansion to make methods into functions</description>
+    </item>
+    
+  </channel>
+</rss>

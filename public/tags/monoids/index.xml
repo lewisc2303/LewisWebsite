@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monoids on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/monoids/</link>
+    <description>Recent content in Monoids on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/monoids/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 91 - Why Monoid?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_92/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_92/</guid>
+      <description>Why Monoid? In my last post I was quite technical on how to Monoid and what the text book definition of a Monoid is. But what is the point of it? You could just write a function that does the same.
+But Monoids are just abstractions of a common pattern which appears often, Monoids allow you to abstract this common pattern into a set implementation so it can be easily used to construct datatypes together.</description>
+    </item>
+    
+    <item>
+      <title>Day 90 - Monoids</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_91/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_91/</guid>
+      <description>Monoids This blog post has been in the making for a while as I didn&amp;rsquo;t fully understand Monoids to make a Blogpost on them.
+What is a Monoid? A Monoid is a datatype that takes 2 arguments and is governed by 2 laws:
+ Applicability : This law states that the order of argument execution does not effect the result.  2+(6+10) == (2+6)+10 == 16 OR ([6,3,7] ++ [4]) ++ [0,8] == [6,3,7] ++ ([4] ++ [0,8]) == [6,3,7,4,0,8]  It doesn&amp;rsquo;t matter where the parenthesis are, the results are the same.</description>
+    </item>
+    
+  </channel>
+</rss>

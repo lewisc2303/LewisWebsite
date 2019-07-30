@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lists on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/lists/</link>
+    <description>Recent content in Lists on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/lists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 56 - Lists</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_56/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_56/</guid>
+      <description>[Lists] Okay, I did the list chapter from the Haskell book before Innodays, however I never did a blog post on it. And in this chapter there was some crucial information on the idiomatic ways Haskell deals with lists, so I am reviewing what I learnt and writing a post about it&amp;hellip;
+The cons (:) operator One of these idiomatic Haskellism is the cons operator :. Haskell has 2 ways of defining the List datatype:</description>
+    </item>
+    
+  </channel>
+</rss>

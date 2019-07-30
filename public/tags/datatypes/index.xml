@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datatypes on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/datatypes/</link>
+    <description>Recent content in Datatypes on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/datatypes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 63 - Algebraic Datatypes</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_63/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_63/</guid>
+      <description>Algebraic Datatypes The strict type system of Haskell is one its key features, it can aid in crafting HOFs, catching errors at compile time and allow for more descriptive code.
+Algebraic Dataypes can be categorised into 2 main types:
+Sum Type A data structure that contains different fixed singular data constructors. The most familiar being Boolean.
+data Boolean = True | False  When no arguments are required for the type constructor, it is referred to as a nullary constructor</description>
+    </item>
+    
+  </channel>
+</rss>

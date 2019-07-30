@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kata on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/kata/</link>
+    <description>Recent content in Kata on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/kata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 102 - Katas but not yet Functors</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_102/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_102/</guid>
+      <description>I have been ill the last few days, so have not written any posts but I did watch a few YouTube videos around on Haskell and JavaScript.
+Kata Haskell Kata One particular video made me realise that I have not been using the Haskell type signatures to help in describing the functions well enough, and the video makes a good case stating that type signature declarations aid in code documentation, however I have tended to be lazy and not use type aliases.</description>
+    </item>
+    
+    <item>
+      <title>Day 84 - Compile Driven Development</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_84/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_84/</guid>
+      <description>Haskell Blog Today whilst researching Monoids I stumbled across a very informative blog, the best Haskell blog I&amp;rsquo;ve come across yet. The blog is well categorised by level of Haskell competency and explores not only concepts but also the best approaches to learning and using Haskell. It has some cool advanced sections like; AI in Haskell, Haskell Web and Haskell parsing. It also goes into Elm and PureScript AND it&amp;rsquo;s still active!</description>
+    </item>
+    
+  </channel>
+</rss>

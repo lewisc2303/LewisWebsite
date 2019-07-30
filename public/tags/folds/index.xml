@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folds on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/folds/</link>
+    <description>Recent content in Folds on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/folds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 59 - Folds</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_59/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_59/</guid>
+      <description>Folds Folding is a useful tool for deconstructing data, by reducing about the spine of a list (due to foldable being a type-class, folds can also be performed on other datatypes, but this is not in the scope of the fold chapter I just read).
+Folds essentially replaces the cons constructor in a list with a function which takes 2 arguments and applies that function through the list until it reaches the base case.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hackathon on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/hackathon/</link>
+    <description>Recent content in Hackathon on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 77 - MuniHac 2018</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_77/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_77/</guid>
+      <description>MuniHac 2018 Once again I&amp;rsquo;ve been lacking on my blog posts, but since I am on a 3 hour coach journey, it is a great opportunity to write about my MuniHac experience.
+MuniHac is a 3 day Haskell Hackathon: One room, 80 Haskellers, unlimited food and coffee and a passion for immutable datatypes.
+Day 1 With this being my first hackathon, I felt a bit nervous as I didn&amp;rsquo;t know anyone there and was not sure on the levels of Haskell competency.</description>
+    </item>
+    
+  </channel>
+</rss>

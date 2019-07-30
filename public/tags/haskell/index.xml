@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haskell on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/haskell/</link>
+    <description>Recent content in Haskell on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 107 - What do you call a typeclass from the 80&#39;s?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_107/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_107/</guid>
+      <description>A (FUNK)TOR! But for real&amp;hellip; Functors  &amp;ldquo;We abstract out a common pattern, make certain it follows some laws, give it an awesome name, and wonder how we ever lived without it&amp;rdquo;
+ I think this is an accurate reasoning for typeclasses. And was pre-highlighted in the book, so the person who sent it to me must of also thought so.
+Functors is an example of the above, an abstraction of a common pattern.</description>
+    </item>
+    
+    <item>
+      <title>Day 102 - Katas but not yet Functors</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_102/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_102/</guid>
+      <description>I have been ill the last few days, so have not written any posts but I did watch a few YouTube videos around on Haskell and JavaScript.
+Kata Haskell Kata One particular video made me realise that I have not been using the Haskell type signatures to help in describing the functions well enough, and the video makes a good case stating that type signature declarations aid in code documentation, however I have tended to be lazy and not use type aliases.</description>
+    </item>
+    
+    <item>
+      <title>Day 98 - ToDo List ft. Functor/Applicative</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_98/</link>
+      <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_98/</guid>
+      <description>Functors and Applicatives On Sunday I watched a few videos and read a few documents about the functor and applicative typeclass and the methods they contain. Which is not my usual approach, I have been reading chapter by chapter, the Haskell book and doing exercises as I go along, but a few weeks back I realised that it&amp;rsquo;s not making me apply my Haskell knowledge to real world scenarios. And so I started a Haskell project which was a &amp;ldquo;To-Do List&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Day 95 - Data Ingenieurwesen &amp;&amp; Meine Haskell Umwelt</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_95/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_95/</guid>
+      <description>Data Engineering So this week I joined the Data Engineering team. Their main role is to maintain and refine data for both internal and external purposes. There seems to be quite a bit of complex technologies and frameworks which are intrinsic to the data team such as the data import scheduler and Spark.
+I had heard of Spark before and but only that it was used in big data distributed data computation, but never seen it, or looked into how it works.</description>
+    </item>
+    
+    <item>
+      <title>Day 91 - Why Monoid?</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_92/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_92/</guid>
+      <description>Why Monoid? In my last post I was quite technical on how to Monoid and what the text book definition of a Monoid is. But what is the point of it? You could just write a function that does the same.
+But Monoids are just abstractions of a common pattern which appears often, Monoids allow you to abstract this common pattern into a set implementation so it can be easily used to construct datatypes together.</description>
+    </item>
+    
+    <item>
+      <title>Day 90 - Monoids</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_91/</link>
+      <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_91/</guid>
+      <description>Monoids This blog post has been in the making for a while as I didn&amp;rsquo;t fully understand Monoids to make a Blogpost on them.
+What is a Monoid? A Monoid is a datatype that takes 2 arguments and is governed by 2 laws:
+ Applicability : This law states that the order of argument execution does not effect the result.  2+(6+10) == (2+6)+10 == 16 OR ([6,3,7] ++ [4]) ++ [0,8] == [6,3,7] ++ ([4] ++ [0,8]) == [6,3,7,4,0,8]  It doesn&amp;rsquo;t matter where the parenthesis are, the results are the same.</description>
+    </item>
+    
+    <item>
+      <title>Day 84 - Compile Driven Development</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_84/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_84/</guid>
+      <description>Haskell Blog Today whilst researching Monoids I stumbled across a very informative blog, the best Haskell blog I&amp;rsquo;ve come across yet. The blog is well categorised by level of Haskell competency and explores not only concepts but also the best approaches to learning and using Haskell. It has some cool advanced sections like; AI in Haskell, Haskell Web and Haskell parsing. It also goes into Elm and PureScript AND it&amp;rsquo;s still active!</description>
+    </item>
+    
+    <item>
+      <title>Day 81 - RSS :(, Haskell :)</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_81/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_81/</guid>
+      <description>RSS failed :( So yesterday I made an RSS feed for my blog, but for some reason it does not work. I think the theme I am using is not explicitly made for RSS as some of the other apprentices struggled with this theme too. Therefore I have started setting up my new theme and will hopefully finish it on Monday.
+Looking into a Haskell Service Today a fellow HolidayCheck employee showed me a HolidayCheck service which was created in Haskell which was cool to see.</description>
+    </item>
+    
+    <item>
+      <title>Day 77 - MuniHac 2018</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_77/</link>
+      <pubDate>Mon, 19 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_77/</guid>
+      <description>MuniHac 2018 Once again I&amp;rsquo;ve been lacking on my blog posts, but since I am on a 3 hour coach journey, it is a great opportunity to write about my MuniHac experience.
+MuniHac is a 3 day Haskell Hackathon: One room, 80 Haskellers, unlimited food and coffee and a passion for immutable datatypes.
+Day 1 With this being my first hackathon, I felt a bit nervous as I didn&amp;rsquo;t know anyone there and was not sure on the levels of Haskell competency.</description>
+    </item>
+    
+    <item>
+      <title>Day 73 - Testing</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_72/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_72/</guid>
+      <description>Testing in Haskell As in any language, testing is crucial for driving and creating good, maintainable code. And for me, this would be the only criticism of the book, the testing chapter, for being both too vague with the specific implementation with regards to test layout and for introducing it so far into the book.
+Throughout the book, functions were tested by loading the file into the GHCi and interpreting the compiler error, which is essential to a strictly typed language.</description>
+    </item>
+    
+    <item>
+      <title>Day 71 - Haskell testing blog post pending</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_71/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_71/</guid>
+      <description>Haskell Testing Blog Post pending So today I was going to write a blog post about testing in Haskell but have not been successful and come across lots of issues.
+Hopefully tomorrow I shall sort them out and be able to write a blog post on how I overcame them.
+The a general issue with Haskell is that there isn&amp;rsquo;t the wealth of forum posts on how to overcome issues.</description>
+    </item>
+    
+    <item>
+      <title>Day 65 - My Haskell Genesis</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_65/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_65/</guid>
+      <description>Today I made my first Haskell Project ! It was a text-based hangman game, and it was heavily guided by the book, even-so it brought everything together and it was quite cool actually producing something tangible.
+So the basics for setting up any project is by the following commands:
+stack new my-project cd my-project stack setup stack build stack exec my-project-exe   stack new builds a project directory for a new Haskell Project stack setup will download or update the necessary GHC compiler stack build will build the minimal project in order to execute teh project.</description>
+    </item>
+    
+    <item>
+      <title>Day 63 - Algebraic Datatypes</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_63/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_63/</guid>
+      <description>Algebraic Datatypes The strict type system of Haskell is one its key features, it can aid in crafting HOFs, catching errors at compile time and allow for more descriptive code.
+Algebraic Dataypes can be categorised into 2 main types:
+Sum Type A data structure that contains different fixed singular data constructors. The most familiar being Boolean.
+data Boolean = True | False  When no arguments are required for the type constructor, it is referred to as a nullary constructor</description>
+    </item>
+    
+    <item>
+      <title>Day 59 - Folds</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_59/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_59/</guid>
+      <description>Folds Folding is a useful tool for deconstructing data, by reducing about the spine of a list (due to foldable being a type-class, folds can also be performed on other datatypes, but this is not in the scope of the fold chapter I just read).
+Folds essentially replaces the cons constructor in a list with a function which takes 2 arguments and applies that function through the list until it reaches the base case.</description>
+    </item>
+    
+    <item>
+      <title>Day 57 - Strict and Lazy evaluation</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_57/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_57/</guid>
+      <description>Strict, Non-Strict and Lazy Evaluation Haskell can be described as a non-strict language with mostly lazy evaluation. Aber, Was bedeutet das? (Gestern hatte ich meine erste Deutsche Klasse, also werde ich zufällig Deutsch schrieben, damit ich üben kann)
+ Non-Strict Evaluation: Non-strict evaluation means that you evaluate an expression from the outside in (as you do in lambda calculus).
+ Strict Evaluation: Is obviously the opposite, evaluation starts from the inside out.</description>
+    </item>
+    
+    <item>
+      <title>Day 56 - Lists</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_56/</link>
+      <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_56/</guid>
+      <description>[Lists] Okay, I did the list chapter from the Haskell book before Innodays, however I never did a blog post on it. And in this chapter there was some crucial information on the idiomatic ways Haskell deals with lists, so I am reviewing what I learnt and writing a post about it&amp;hellip;
+The cons (:) operator One of these idiomatic Haskellism is the cons operator :. Haskell has 2 ways of defining the List datatype:</description>
+    </item>
+    
+    <item>
+      <title>Day 46 - Referential Transparency</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_46/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_46/</guid>
+      <description>Referential Transparency Whilst going through some recursion exercises in Haskell, I thought to myself, how is the recursive parameter in a recursive function not mutating? Surely this variable is changing with with every recursive call and therefore breaking referential transparency?
+So, I decided to write a blog post about it&amp;hellip;
+First of all, what is Referential Transparency?
+ Referential transparency is an expression that can be replaced with its value without changing the program’s behaviour.</description>
+    </item>
+    
+    <item>
+      <title>Day 45 - Exercism</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_45/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_45/</guid>
+      <description>A break from the book Today I&amp;rsquo;ve been completing some more autonomous and less guided exercises in Exercism. I find these exercises more challenging as it&amp;rsquo;s not focused around the last chapter I read, and forces me to apply everything that I&amp;rsquo;ve learnt and work out the best way.
+An example is the Acronym challenge, which requires you to create a function that creates an acronym out of any String argument.</description>
+    </item>
+    
+    <item>
+      <title>Day 44</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_44/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_44/</guid>
+      <description>Recursion Is the use of repeated function application, so the self-calling nature of a function. Recursive functions requires a a termination step to avoid stack overflow. The usual layout of this is to make a recursive bottom and the termination steps higher up the code order.
+Today I saw myself naturally implementing a TDD approach (very loosely because I&amp;rsquo;m not even implementing test suites into Haskell rn) to creating my recursion model.</description>
+    </item>
+    
+    <item>
+      <title>Day 43</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_43/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_43/</guid>
+      <description>More Functional Patterns Guards A way of evaluating many truth statements separately. This is an alternative way of using case statements, although this method uses otherwise which is ideal for handling bottoms.
+Bottoms - a non-value used to denote that the program cannot return a value or result.
+avgGrade :: (Fractional a, Ord a) =&amp;gt; a -&amp;gt; Char avgGrade x | y&amp;gt;=0.9 =&#39;A&#39; | y&amp;gt;=0.8 =&#39;B&#39; | y&amp;gt;=0.7 =&#39;C&#39; | y &amp;gt;= 0.</description>
+    </item>
+    
+  </channel>
+</rss>

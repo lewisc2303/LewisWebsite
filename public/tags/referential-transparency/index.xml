@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Referential Transparency on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/referential-transparency/</link>
+    <description>Recent content in Referential Transparency on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/referential-transparency/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 46 - Referential Transparency</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_46/</link>
+      <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_46/</guid>
+      <description>Referential Transparency Whilst going through some recursion exercises in Haskell, I thought to myself, how is the recursive parameter in a recursive function not mutating? Surely this variable is changing with with every recursive call and therefore breaking referential transparency?
+So, I decided to write a blog post about it&amp;hellip;
+First of all, what is Referential Transparency?
+ Referential transparency is an expression that can be replaced with its value without changing the program’s behaviour.</description>
+    </item>
+    
+  </channel>
+</rss>

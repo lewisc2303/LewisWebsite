@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazy on Lewis Coleman</title>
+    <link>http://www.lcoleman.me/tags/lazy/</link>
+    <description>Recent content in Lazy on Lewis Coleman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lcoleman.me/tags/lazy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 57 - Strict and Lazy evaluation</title>
+      <link>http://www.lcoleman.me/apprenticeship/day_57/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lcoleman.me/apprenticeship/day_57/</guid>
+      <description>Strict, Non-Strict and Lazy Evaluation Haskell can be described as a non-strict language with mostly lazy evaluation. Aber, Was bedeutet das? (Gestern hatte ich meine erste Deutsche Klasse, also werde ich zufällig Deutsch schrieben, damit ich üben kann)
+ Non-Strict Evaluation: Non-strict evaluation means that you evaluate an expression from the outside in (as you do in lambda calculus).
+ Strict Evaluation: Is obviously the opposite, evaluation starts from the inside out.</description>
+    </item>
+    
+  </channel>
+</rss>
